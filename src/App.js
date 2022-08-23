@@ -8,7 +8,7 @@ import TicTacToe from './pages/TicTacToe';
 
 function App() {
   return (
-    <Router>
+    <Router basename="/fun-with-react">
       {/* everything between the router tags appears on every page */}
       <div style={{width: 100 + "VW"}} className='navBar'>
       <nav className='nav'>
