@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/DanielCoelho66/fun-with-react.git/static/css/main.1f64324c.css",
-    "main.js": "/DanielCoelho66/fun-with-react.git/static/js/main.fc8ff918.js",
+    "main.js": "/DanielCoelho66/fun-with-react.git/static/js/main.f8d4c75d.js",
     "static/js/787.7bccd639.chunk.js": "/DanielCoelho66/fun-with-react.git/static/js/787.7bccd639.chunk.js",
     "index.html": "/DanielCoelho66/fun-with-react.git/index.html",
     "main.1f64324c.css.map": "/DanielCoelho66/fun-with-react.git/static/css/main.1f64324c.css.map",
-    "main.fc8ff918.js.map": "/DanielCoelho66/fun-with-react.git/static/js/main.fc8ff918.js.map",
+    "main.f8d4c75d.js.map": "/DanielCoelho66/fun-with-react.git/static/js/main.f8d4c75d.js.map",
     "787.7bccd639.chunk.js.map": "/DanielCoelho66/fun-with-react.git/static/js/787.7bccd639.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1f64324c.css",
-    "static/js/main.fc8ff918.js"
+    "static/js/main.f8d4c75d.js"
   ]
 }
